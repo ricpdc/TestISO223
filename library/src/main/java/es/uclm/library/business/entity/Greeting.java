@@ -1,5 +1,8 @@
 package es.uclm.library.business.entity;
 //CAMBIO DDfASFf y es mejor el conjunto
+
+
+//cambio en nueva rama
 public class Greeting {
 	private String person;
 	private String content;
