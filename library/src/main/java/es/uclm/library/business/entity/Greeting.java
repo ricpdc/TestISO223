@@ -1,5 +1,5 @@
 package es.uclm.library.business.entity;
-
+//PRUEBA COMMIT
 public class Greeting {
 	private String person;
 	private String content;
