@@ -1,5 +1,5 @@
 package es.uclm.library.business.entity;
-//Mi comentario es mejor
+//CAMBIO DDfASFf y es mejor el conjunto
 public class Greeting {
 	private String person;
 	private String content;
